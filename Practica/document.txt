@@ -1,0 +1,12 @@
+3- se pone en negro el cuadro y sale hola mundo en letras verdes
+
+7- el cuadro en negro y adentro la parte de texto pero se ve feo 
+ - innerText se adapta al contenedor , innerHtml lo pone por ponerlo 
+
+1- almacena todas las clases container c2
+
+2- cambia el color de todos los cuadros
+
+3- le pone el texto de escribir pero de manera a que no esta adaptada al contenedor 
+ - innerText se adapta al contenedor, innerHtml no se adapta al contenedor 
+
