@@ -20,3 +20,18 @@ for (let i=0; i<containers.length; i++){
     containers[i].style.backgroundColor="#009999";
     containers[i].innerHTML= "<input type='text' placeholder='Escriba su texto'>"; 
 }
+
+var boton= document.getElementById('btn-click');
+
+boton.onclick = function(evt) 
+{ 
+alert("Hola mundo"); 
+} 
+ 
+var btnCopy= document.getElementById('btnCopy'); 
+
+btnCopy.onclick = function(evt) 
+{ 
+let msj = document.getElementById('textMsj').value;
+document.getElementById('showMsj').innerText = msj;
+}

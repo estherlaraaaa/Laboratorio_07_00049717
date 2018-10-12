@@ -10,3 +10,4 @@
 3- le pone el texto de escribir pero de manera a que no esta adaptada al contenedor 
  - innerText se adapta al contenedor, innerHtml no se adapta al contenedor 
 
+4- se copia el texto 
