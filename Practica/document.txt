@@ -1,13 +1,21 @@
+Usando "document.getElementById"
+
 3- se pone en negro el cuadro y sale hola mundo en letras verdes
 
 7- el cuadro en negro y adentro la parte de texto pero se ve feo 
- - innerText se adapta al contenedor , innerHtml lo pone por ponerlo 
+ - innerText es para agregarle texto al id , innerHtml es para agregar etiquetas al html 
 
-1- almacena todas las clases container c2
+Usando "document.getElementsByClassName"
 
-2- cambia el color de todos los cuadros
+1- almacena todos los contenedores que tienen las clases container c2
 
-3- le pone el texto de escribir pero de manera a que no esta adaptada al contenedor 
- - innerText se adapta al contenedor, innerHtml no se adapta al contenedor 
+2- cambia el color de todos los cuadros de los contenedores de clase container c2 
 
-4- se copia el texto 
+3- se le pone un input a los contenedores que tienen la clase container c2  
+ - innerText es para agregarle texto al id , innerHtml es para agregar etiquetas al html 
+
+
+Eventos
+
+4- en el primero se muestra una alerta y en el segundo se copiara el texto y lo muestra en el otro cuadrito 
+ - value se toma el valor del id y con innerText se agrega texto plano a dicho id 
