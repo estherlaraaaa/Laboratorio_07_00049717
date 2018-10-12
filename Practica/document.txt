@@ -1,21 +1,37 @@
-Usando "document.getElementById"
+-------Usando "document.getElementById"-------
 
-3- se pone en negro el cuadro y sale hola mundo en letras verdes
+ ¿Qué es lo que contiene la variable container?
+contiene el id de algun elemento del html 
 
-7- el cuadro en negro y adentro la parte de texto pero se ve feo 
- - innerText es para agregarle texto al id , innerHtml es para agregar etiquetas al html 
+ ¿Qué visualiza en el navegador?
+se pone en negro el cuadro y sale hola mundo en letras verdes
 
-Usando "document.getElementsByClassName"
+¿Qué es lo que se muestra en pantalla?
+el cuadro en negro y adentro la parte de texto pero se ve feo 
 
-1- almacena todos los contenedores que tienen las clases container c2
-
-2- cambia el color de todos los cuadros de los contenedores de clase container c2 
-
-3- se le pone un input a los contenedores que tienen la clase container c2  
- - innerText es para agregarle texto al id , innerHtml es para agregar etiquetas al html 
+ ¿Cuál es la diferencia entre las propiedades innerHtml e innerText?
+innerText es para agregarle texto al id , innerHtml es para agregar etiquetas al html 
 
 
-Eventos
+-----Usando "document.getElementsByClassName"-------
 
-4- en el primero se muestra una alerta y en el segundo se copiara el texto y lo muestra en el otro cuadrito 
- - value se toma el valor del id y con innerText se agrega texto plano a dicho id 
+ ¿Qué almacena containers?
+almacena todos los contenedores que tienen las clases container c2
+
+¿Qué se mostrará en pantalla?
+cambia el color de todos los cuadros de los contenedores de clase container c2 
+
+ ¿Qué se mostrará en pantalla?
+se le pone un input a los contenedores que tienen la clase container c2  
+
+ ¿Cuál es la diferencia entre las propiedas innerText e innerHTML?
+innerText es para agregarle texto al id , innerHtml es para agregar etiquetas al html 
+
+
+--------Eventos------
+
+¿Qué es lo que sucedera después de darle click al botón?
+en el primero se muestra una alerta y en el segundo se copiara el texto y lo muestra en el otro cuadrito 
+
+¿Cuál es la difernecia entre value e innerText?
+value se toma el valor del id y con innerText se agrega texto plano a dicho id 
